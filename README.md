@@ -156,7 +156,7 @@ Regional analysis can help businesses:
 
 🚚 4. Shipping Analysis
 
-[Shipping Analysis](Shipping.png)
+![Shipping](Shipping.png)
 
 📌 Shipping Performance
 
